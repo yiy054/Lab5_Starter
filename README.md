@@ -1,4 +1,5 @@
 # Lab 5 - Starter
 Yi Yao 
-[expose.html](expose.html)
-[explore.html](explore.html)
+
+https://yiy054.github.io/Lab5_Starter/expose.html
+https://yiy054.github.io/Lab5_Starter/explore.html
